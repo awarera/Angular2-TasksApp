@@ -3,6 +3,9 @@
 A very simple todo tasks tracker made with Angular2
 
 
+<img width="1195" alt="screen shot 2017-04-10 at 18 58 52" src="https://cloud.githubusercontent.com/assets/23620372/24875498/25e4f7f4-1e20-11e7-9082-1ee889ffc4d1.png">
+<img width="1195" alt="screen shot 2017-04-10 at 18 58 59" src="https://cloud.githubusercontent.com/assets/23620372/24875499/27349b1e-1e20-11e7-8804-ef0b54f4d41c.png">
+
 
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
